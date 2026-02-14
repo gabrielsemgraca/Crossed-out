@@ -1,0 +1,17 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="519" y="229.5" size="1">
+	<anim name="idle" anim="1 instance " fps="24" loop="true" x="0" y="0"/>
+	<anim name="singUP" anim="Up instance " fps="24" loop="false" x="35" y="125"/>
+	<anim name="singRIGHT" anim="Right instance " fps="24" loop="false" x="-30" y="30"/>
+	<anim name="singLEFT" anim="Left instance " fps="24" loop="false" x="120" y="-10"/>
+	<anim name="singDOWN" anim="Down instance " fps="24" loop="false" x="-31" y="-40"/>
+	<anim name="idle-alt" anim="DIE BITCH instance " fps="24" loop="true" x="0" y="-13"/>
+	<anim name="idle-alt2" anim="" fps="24" loop="false" x="-30" y="-35"/>
+	<anim name="attack2" anim="Hadoken!! instance " fps="24" loop="false" x="350" y="270"/>
+	<anim name="hit" anim="Ouch instance " fps="24" loop="false" x="110" y="-20"/>
+	<anim name="singUP-alt" anim="PewUp instance " fps="24" loop="false" x="50" y="80"/>
+	<anim name="singDOWN-alt" anim="pewdown instance " fps="24" loop="false" x="-30" y="-35"/>
+	<anim name="singLEFT-alt" anim="Pewleft instance " fps="24" loop="false" x="112" y="-38"/>
+	<anim name="singRIGHT-alt" anim="PewRight instance " fps="24" loop="false" x="-29" y="26"/>
+</character>
