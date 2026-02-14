@@ -1,0 +1,11 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="548" y="292" size="1">
+	<anim name="idle" anim="Cuphead_standing instance " fps="24" loop="true" x="0" y="0"/>
+	<anim name="idle-alt" anim="Shoot instance " fps="24" loop="true" x="0" y="-2"/>
+	<anim name="singUP" anim="Up instance " fps="24" loop="true" x="-2" y="24"/>
+	<anim name="singRIGHT" anim="Right instance " fps="24" loop="true" x="-9" y="-3"/>
+	<anim name="singLEFT" anim="Left instance " fps="24" loop="true" x="34" y="-4"/>
+	<anim name="singDOWN" anim="Down instance " fps="24" loop="true" x="-14" y="-10"/>
+	<anim name="hit" anim="Hurt instance " fps="24" loop="false" x="51" y="32"/>
+</character>
