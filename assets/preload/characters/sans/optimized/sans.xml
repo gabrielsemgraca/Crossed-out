@@ -1,0 +1,17 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="507.5" y="233.5" size="1">
+	<anim name="danceLeft" anim="Sans FNF instance " fps="24" loop="false" x="0" y="0"/>
+	<anim name="danceRight" anim="Sans FNF instance " fps="24" loop="false" x="0" y="0"/>
+	<anim name="idle-alt" anim="Sans FNF 02 instance " fps="24" loop="false" x="-7" y="0"/>
+	<anim name="singUP-alt" anim="Up 02 instance " fps="24" loop="false" x="19" y="16"/>
+	<anim name="singRIGHT-alt" anim="Right 02 instance " fps="24" loop="false" x="-10" y="0"/>
+	<anim name="singLEFT-alt" anim="Left 02 instance " fps="24" loop="false" x="23" y="1"/>
+	<anim name="singDOWN-alt" anim="Down 02 instance " fps="24" loop="false" x="-6" y="-8"/>
+	<anim name="miss" anim="SansDodge instance " fps="24" loop="false" x="53" y="12"/>
+	<anim name="snap" anim="Switch to UT mode instance " fps="24" loop="false" x="10" y="0"/>
+	<anim name="singUP" anim="Up instance " fps="24" loop="false" x="-8" y="15"/>
+	<anim name="singRIGHT" anim="Right instance " fps="24" loop="false" x="-10" y="1"/>
+	<anim name="singLEFT" anim="Left instance " fps="24" loop="false" x="24" y="1"/>
+	<anim name="singDOWN" anim="Down instance " fps="24" loop="false" x="-5" y="-7"/>
+</character>
