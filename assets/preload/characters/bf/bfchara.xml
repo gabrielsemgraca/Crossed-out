@@ -1,0 +1,15 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="-146" y="160" size="1">
+	<anim name="idle" anim="0Idle instance " fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singUP" anim="0UPPP instance " fps="24" loop="false" x="-46" y="57"/>
+	<anim name="singRIGHT" anim="0EEEE instance " fps="24" loop="false" x="-37" y="-2"/>
+	<anim name="singLEFT" anim="0EERR instance " fps="24" loop="false" x="66" y="-5"/>
+	<anim name="singDOWN" anim="0Ouu instance " fps="24" loop="false" x="-20" y="-30"/>
+	<anim name="singUPmiss" anim="U-Miss instance " fps="24" loop="false" x="-59" y="107"/>
+	<anim name="singRIGHTmiss" anim="L-Miss instance " fps="24" loop="false" x="-28" y="24"/>
+	<anim name="singLEFTmiss" anim="R-Miss instance " fps="24" loop="false" x="13" y="21"/>
+	<anim name="singDOWNmiss" anim="D-Miss instance " fps="24" loop="false" x="-33" y="-20"/>
+	<anim name="firstDeath" anim="gdgdg instance " fps="24" loop="false" x="10" y="30"/>
+	<anim name="attack" anim="0BF attack copy instance " fps="24" loop="false" x="1107" y="-13"/>
+</character>

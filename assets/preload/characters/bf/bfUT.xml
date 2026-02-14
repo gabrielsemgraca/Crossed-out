@@ -1,0 +1,13 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="417.5" y="156" size="1">
+	<anim name="idle" anim="BF idle dance instance " fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singUP" anim="BF NOTE UP instance " fps="24" loop="false" x="-52" y="56"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT instance " fps="24" loop="false" x="-38" y="-9"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT instance " fps="24" loop="false" x="5" y="-15"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN instance " fps="24" loop="false" x="-11" y="-26"/>
+	<anim name="singUPmiss" anim="BfOuch instance " fps="24" loop="false" x="32" y="74"/>
+	<anim name="singRIGHTmiss" anim="BfOuch instance " fps="24" loop="false" x="32" y="74"/>
+	<anim name="singLEFTmiss" anim="BfOuch instance " fps="24" loop="false" x="32" y="74"/>
+	<anim name="singDOWNmiss" anim="BfOuch instance " fps="24" loop="false" x="32" y="74"/>
+</character>

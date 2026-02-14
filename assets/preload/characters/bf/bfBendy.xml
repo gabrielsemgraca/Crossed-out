@@ -1,0 +1,17 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="214.5" y="13.5" size="1">
+	<anim name="idle" anim="BF idle dance copy 2 instance " fps="24" loop="true" x="-5" y="0"/>
+	<anim name="singUP" anim="BF NOTE UP copy 2 instance " fps="24" loop="false" x="-40" y="54"/>
+	<anim name="singRIGHT" anim="BF NOTE RIGHT copy 2 instance " fps="24" loop="false" x="-21" y="1"/>
+	<anim name="singLEFT" anim="BF NOTE LEFT copy 2 instance " fps="24" loop="false" x="42" y="-4"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN copy 2 instance " fps="24" loop="false" x="-20" y="-34"/>
+	<anim name="singUPmiss" anim="BF NOTE UP copy 2 instance " fps="24" loop="false" x="-35" y="56"/>
+	<anim name="singRIGHTmiss" anim="BF NOTE RIGHT copy 2 instance " fps="24" loop="false" x="-21" y="0"/>
+	<anim name="singLEFTmiss" anim="BF NOTE LEFT copy 2 instance " fps="24" loop="false" x="42" y="-3"/>
+	<anim name="singDOWNmiss" anim="BF NOTE DOWN copy 2 instance " fps="24" loop="false" x="-20" y="-34"/>
+	<anim name="attackRight" anim="Attack instance 2" fps="28" loop="false" x="-28" y="146"/>
+	<anim name="attackLeft" anim="Attack instance 1" fps="28" loop="false" x="437" y="145"/>
+	<anim name="dodge" anim="Dodge instance " fps="24" loop="false" x="11" y="15"/>
+	<anim name="ouchy" anim="Ouch instance " fps="24" loop="false" x="8" y="145"/>
+</character>

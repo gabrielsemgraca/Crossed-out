@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character isPlayer="true" flipX="false" x="396" y="156" size="1">
+	<anim name="idle" anim="BF idle dance instance " fps="24" loop="false" x="-5" y="0"/>
+	<anim name="singUP" anim="BF NOTE UP instance " fps="24" loop="false" x="-2" y="66"/>
+	<anim name="singRIGHT" anim="BF NOTE LEFT instance " fps="24" loop="false" x="-8" y="-10"/>
+	<anim name="singLEFT" anim="BF NOTE RIGHT instance " fps="24" loop="false" x="88" y="-6"/>
+	<anim name="singDOWN" anim="BF NOTE DOWN instance " fps="24" loop="false" x="29" y="-27"/>
+	<anim name="singUPmiss" anim="BfOuch instance " fps="24" loop="false" x="1" y="-26"/>
+	<anim name="singRIGHTmiss" anim="BfOuch instance " fps="24" loop="false" x="1" y="-26"/>
+	<anim name="singLEFTmiss" anim="BfOuch instance " fps="24" loop="false" x="1" y="-26"/>
+	<anim name="singDOWNmiss" anim="BfOuch instance " fps="24" loop="false" x="1" y="-26"/>
+</character>

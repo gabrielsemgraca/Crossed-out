@@ -1,0 +1,14 @@
+<!DOCTYPE ICCrossedOut-Char-Data>
+
+<character isPlayer="false" flipX="false" x="478" y="226.5" size="1">
+	<anim name="idle" anim="Run_cycle instance " fps="24" loop="true" x="-5" y="0"/>
+	<anim name="idle-alt" anim="Run_When Bendy is Close instance " fps="24" loop="true" x="-5" y="0"/>
+	<anim name="singUP" anim="Up instance " fps="24" loop="true" x="-2" y="0"/>
+	<anim name="singRIGHT" anim="Rightt instance " fps="24" loop="true" x="-6" y="-5"/>
+	<anim name="singLEFT" anim="Leftt instance " fps="24" loop="true" x="5" y="-6"/>
+	<anim name="singDOWN" anim="Down instance " fps="24" loop="true" x="4" y="-2"/>
+	<anim name="singUPmiss" anim="Up Miss instance " fps="24" loop="false" x="-7" y="-15"/>
+	<anim name="singRIGHTmiss" anim="Right Miss instance " fps="24" loop="false" x="7" y="-18"/>
+	<anim name="singLEFTmiss" anim="Left Miss instance " fps="24" loop="false" x="-5" y="-19"/>
+	<anim name="singDOWNmiss" anim="Down Miss instance " fps="24" loop="false" x="3" y="-19"/>
+</character>
